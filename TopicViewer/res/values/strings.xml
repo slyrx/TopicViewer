@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TopicViewer</string>
+    <string name="showTopic">显示题意</string>
+    <string name="action_settings">Settings</string>
+    <string name="showAnswer">显示答案</string>
+    <string name="lastTopic">上一题</string>
+    <string name="nextTopic">下一题</string>
+    <string name="showTopicList">显示题目</string>
+    <string name="topicImage">题目图片</string>
+    <string name="answerImage">答案图片</string>
+    <string name="comment">吐槽：</string>
+    <string name="activity_custom_dialog">imageViewer</string>
+	<string name="temp_button">临时按钮</string>
+	<string name="BiggerTopicImage">放大题目</string>
+	<string name="BiggerAnswerImage">放大答案</string>
+	<string name="CommentUpdate">更新</string>
+	<string name="ShowComment">显示吐槽</string>
+	<string name="MoveToPosition">跳转</string>
+	<string name="ChangeDataBase">切换数据库</string>
+	<string name="CommentState">吐槽状态</string>
+	<string name="ShowAnswerPic">显示答案图片</string>
+</resources>
